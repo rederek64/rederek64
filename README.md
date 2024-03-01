@@ -18,10 +18,14 @@
 <p align="center">
 	<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,jquery,discordjs,cpp,visualstudio,vscode,cloudflare,firebase,kali,raspberrypi,ubuntu&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,discordjs,vscode&theme=dark&perline=9" />
   </a>
 </p>
 
+<!--profile rating-->
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=rederek64&show_icons=true&theme=cobalt">
+</div>
 
 <!--languages used-->
 <div align="center">
@@ -29,4 +33,3 @@
 	<img width="550px" align="center" src="https://wakatime.com/share/@7ddd9c07-3d30-4314-8234-841dff26e5ee/5c90db74-438f-4597-9f50-1e4c8ff4b2d3.svg">
 	<br>
 </div>
-
