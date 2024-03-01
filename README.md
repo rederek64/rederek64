@@ -7,7 +7,8 @@
 		<p>- listening to music,</p> 
 		<p>- playing video games,</p> 
 		<p>- programming,</p> 
-		<p>- learning new things,</p> 
+		<p>- aviation,</p>
+		<p>- learning new things</p> 
 </div>
 <hr>
 <p align="center">📫 You can reach me on <a target="_blank" href="https://discord.com/users/483339397144772608">Discord</a> / <a target="_blank" href="https://t.me/rederek64">Telegram</a> or my <a target="_blank" href="mailto:rederek64@gmail.com">email address</a>, which you can find on my profile!</p>
@@ -18,7 +19,7 @@
 <p align="center">
 	<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,discordjs,vscode&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,discordjs&theme=dark&perline=9" />
   </a>
 </p>
 
