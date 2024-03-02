@@ -28,6 +28,12 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=rederek64&show_icons=true&theme=cobalt">
 </div>
 
+<h3 align="center">Most used languages:</h3>
+<!--activity wakatime-->
+<div align="center">
+	<img width="550px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rederek64&layout=compact&theme=dark">
+</div>
+
 <h3 align="center">My Wakatime stats:</h3>
 <!--activity wakatime-->
 <div align="center">
@@ -35,3 +41,4 @@
 	<img width="550px" align="center" src="https://wakatime.com/share/@7ddd9c07-3d30-4314-8234-841dff26e5ee/5c90db74-438f-4597-9f50-1e4c8ff4b2d3.svg">
 	<br>
 </div>
+
